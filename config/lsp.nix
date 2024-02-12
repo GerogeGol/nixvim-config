@@ -10,6 +10,7 @@
         enable = true;
         extraOptions = {	
           ui.completion.usePlaceholders = true;
+          formatting.gofumpt = true;
         };
       };
 

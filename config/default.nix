@@ -1,6 +1,7 @@
 {
   # Import all your configuration modules here
   imports = [
+    ./none-ls.nix
     ./bufferline.nix
     ./cmp.nix
     ./lsp.nix
