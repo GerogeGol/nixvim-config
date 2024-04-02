@@ -5,6 +5,8 @@
     shiftwidth = 4;
     expandtab = false;
 
+    swapfile = false;
+
     mouse = "a";
   };
 }

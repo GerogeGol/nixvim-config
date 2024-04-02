@@ -7,6 +7,7 @@
     ./lsp.nix
     ./plugins.nix
     ./options.nix
+    ./colorizer.nix
   ]; 
 
   colorschemes.catppuccin = {
