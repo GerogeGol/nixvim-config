@@ -19,6 +19,7 @@
 
       # python
       pylsp.enable = true;
+      ruff-lsp.enable = true;
     };
   };
 }
