@@ -18,7 +18,7 @@
       dockerls.enable = true;
 
       # python
-      pylsp.enable = true;
+      pyright.enable = true;
       ruff-lsp.enable = true;
     };
   };
