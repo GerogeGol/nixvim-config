@@ -17,6 +17,8 @@
       # c/c++
       clangd.enable = true;
 
+      cmake.enable = true;
+
       # docker
       dockerls.enable = true;
 
