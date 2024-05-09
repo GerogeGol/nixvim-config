@@ -14,6 +14,9 @@
         };
       };
 
+      # c/c++
+      clangd.enable = true;
+
       # docker
       dockerls.enable = true;
 
