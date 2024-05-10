@@ -16,7 +16,7 @@
   };
 
   clipboard = {
-    regitster = "unnamedplus";
+    register = "unnamedplus";
     providers.wl-copy.enable = true;
   };
 
