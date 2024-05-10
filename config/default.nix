@@ -15,6 +15,8 @@
     flavour = "mocha";
   };
 
+  clipboard.providers.wl-copy.enable = true;
+
   globals.mapleader = ",";
   keymaps = [
      # Equivalent to nnoremap ; :
