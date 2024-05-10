@@ -15,7 +15,10 @@
     flavour = "mocha";
   };
 
-  clipboard.providers.wl-copy.enable = true;
+  clipboard = {
+    regitster = "unnamedplus";
+    providers.wl-copy.enable = true;
+  };
 
   globals.mapleader = ",";
   keymaps = [
