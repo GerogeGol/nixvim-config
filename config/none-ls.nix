@@ -9,6 +9,7 @@
         black.enable = true;
         gofmt.enable = true;
         markdownlint.enable = true;
+        nixfmt.enable = true;
       };
     };
   };
