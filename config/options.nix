@@ -1,5 +1,5 @@
 {
-  config.options = {
+  config.opts = {
     number = true;
     tabstop = 4;
     shiftwidth = 4;

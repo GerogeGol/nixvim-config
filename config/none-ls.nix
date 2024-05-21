@@ -9,7 +9,6 @@
         black.enable = true;
         gofmt.enable = true;
         markdownlint.enable = true;
-        rustfmt.enable = true;
       };
     };
   };
